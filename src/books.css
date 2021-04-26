@@ -1,0 +1,35 @@
+.case_main{
+    color: white;
+    background:#5a1d41 ;
+    text-align: center;
+    padding:  50px;
+    min-height: 500px;
+}
+.books{
+    display: flex;
+    flex-direction: row;
+    max-width: 722px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    justify-content: center;
+    
+}
+.books img {
+    margin: 3px;
+    padding: 5px;
+    height: 150px;
+    width: 100px;
+}
+.btnM{
+    font-size: 18px;
+    margin: 70px 0px 8px;
+    width: 230px;
+    color: white;
+    font-weight: 700;
+    padding: 10px 5px;
+    background: var(--main-color);
+    border: 2px solid #FFFFFF;
+    cursor: pointer;
+    border-radius: 5px;
+}

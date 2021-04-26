@@ -1,13 +1,44 @@
 .section_main{
-    text-align: center;
+    position: relative;
+    top: 20px;
+    max-width: 1012px;
+    height: 60vh;
+    margin: auto;
 
 }
 .head{
     text-align: center;
+    margin: 30px;
+    
 
 }
 .icons{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+
+.quote_main{
+    font-size: 15px;
+    position: relative;
+    top: 100px;
+    max-width: 588px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    /* border: 2px solid red; */
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    padding: 35px;
+    padding-bottom: 18px;
+    background-color: #eeeaea;
+
+}
+.quote_main p{
+    font-size: 17px;
+    font-weight: 600;
+    font-style: normal;
+    position: relative;
+    top: 15px;
 }

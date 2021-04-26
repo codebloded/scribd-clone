@@ -1,7 +1,8 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import Landing from './components/Landing'
-import Section from './components/Section'
+import Section from './components/Section';
+import BooksCase from './components/BooksCase';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Navbar/>
       <Landing/>
       <Section/>
+      <BooksCase/>
       
     </div>
   );

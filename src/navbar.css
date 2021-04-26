@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    background-color:#00293f;
+    color: white;
+
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+}
+.btn__sign{
+    background: transparent;
+    /* font-family: Source Sans Pro,serif; */
+    border: 2px solid white;
+    padding: 0px 30px;
+    text-align: center;
+    min-width: 120px;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 4px;
+    min-height: 2.44444em;
+    line-height: 2.44444em;
+    text-transform: capitalize;
+    cursor: pointer;
+    color: white;
+    margin: 4px 10px;
+}

@@ -1,0 +1,13 @@
+.section_main{
+    text-align: center;
+
+}
+.head{
+    text-align: center;
+
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

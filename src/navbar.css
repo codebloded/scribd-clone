@@ -26,5 +26,6 @@
     text-transform: capitalize;
     cursor: pointer;
     color: white;
+    position: sticky;
     margin: 4px 10px;
 }

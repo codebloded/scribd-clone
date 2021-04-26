@@ -1,0 +1,38 @@
+.main__landing{
+    
+    background: linear-gradient(to right, #00293f ,var(--main-color)) ;
+    height: 516px;
+    /* border: 2px solid red; */
+    color: white;
+    
+}
+.inner_content{
+    
+    position: relative;
+    top: 50px;
+    left: 60px;
+    width: 636px;
+}
+
+.inner_content h1{
+    font-size: 59px;
+    margin: 0px 0px 15px;
+    
+}
+.inner_content h3{
+    margin: 0px 0px 32px;
+}
+
+.btn_x{
+    font-size: 18px;
+    margin: 0px 0px 12px;
+    width: 356px;
+    color: black;
+    font-weight: 700;
+    padding:12px 24px;
+    background: #FFFFFF;
+    border:2px solid #FFFFFF;
+    cursor: pointer;
+    border-radius: 5px;
+
+}

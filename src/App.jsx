@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Landing from './components/Landing'
 import Section from './components/Section';
 import BooksCase from './components/BooksCase';
+import Trending from './components/Trending';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Landing/>
       <Section/>
       <BooksCase/>
+      <Trending/>
       
     </div>
   );

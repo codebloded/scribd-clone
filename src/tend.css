@@ -1,0 +1,49 @@
+.logos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  
+    justify-content: space-around;
+
+}
+
+.trend_main h5{
+    text-align: center;
+}
+
+.trend_main{
+    margin-top:10px ;
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.trend_main h5{
+    margin: 20px;
+}
+
+.links{
+    margin: 13px;
+    
+}
+.links p{
+    font-size: 14px;
+    cursor: pointer;
+    margin: 2px;
+    padding: 2px;
+}
+
+.links a{
+    display: block;
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(31, 30, 29);
+
+}
+
+.txtx{
+    position: relative;
+    top: 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

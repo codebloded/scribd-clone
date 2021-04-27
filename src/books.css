@@ -33,3 +33,6 @@
     cursor: pointer;
     border-radius: 5px;
 }
+.btnM:hover{
+    background-color:#00293f;
+}

@@ -4,6 +4,7 @@ import Landing from './components/Landing'
 import Section from './components/Section';
 import BooksCase from './components/BooksCase';
 import Trending from './components/Trending';
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Section/>
       <BooksCase/>
       <Trending/>
+      <Footer/>
       
     </div>
   );

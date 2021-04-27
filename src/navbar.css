@@ -1,10 +1,14 @@
 .nav{
+
+   position: fixed;
+   z-index: 3;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 
     background-color:#00293f;
     color: white;
+    width: 1458px;
 
 }
 .logo{
@@ -26,6 +30,5 @@
     text-transform: capitalize;
     cursor: pointer;
     color: white;
-    position: sticky;
     margin: 4px 10px;
 }

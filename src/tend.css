@@ -14,10 +14,12 @@
 .trend_main{
     margin-top:10px ;
     max-width: 1140px;
+    height: 89vh;
     margin-left: auto;
     margin-right: auto;
 }
 .trend_main h5{
+    color: rgb(61, 60, 58);
     margin: 20px;
 }
 

@@ -1,0 +1,44 @@
+.link_main{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-evenly;
+    
+}
+.footer{
+    background-color: #f0f2f9;
+    display: flex;
+
+    flex-direction: column;
+   
+    justify-content: space-around;
+}
+
+.bottom{
+    background-color: #f0f2f9;
+    width: 969px;
+    height: 6vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.bottom li{
+    cursor: pointer;
+    font-size: 13px;
+    margin-left: 4px;
+}
+.bottom li:hover{
+    color:#3d4a79;
+}
+.root{
+    display: flex;
+    flex-direction: column;
+}
+.promo{
+    display: flex;
+    flex-direction: column;
+
+}
+.promo img{
+    margin: 5px;
+}
